@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "organisation": "South West London and St George's Mental Health NHS Trust",
+    "title": "SWLStG Multiprofessional enhanced practice capabilities framework",
+    "date": "2026",
+    "abbreviation": "SWLStG Enhanced (2026)",
+    "version": "1",
+    "dependencies": [],
+    "source_url": ""
+  },
+  "notes": [
+    "This framework has been derived from NHS England's 'Multi-professional framework for advanced practice in England' (2025)",
+    "(the capabilities defined here have been adapted to reflect the scope of Enhanced Practice)"
+  ],
+  "structure": [
+    {
+      "id": "1",
+      "node_type": "Pillar",
+      "text": "Clinical Practice",
+      "description": "Enhanced practitioners working at an enhanced level of practice should be able to:",
+      "children": [
+        {
+          "id": "1.1",
+          "node_type": "Statement",
+          "text": "practise in compliance with their code of conduct and within their defined specialist scope of practice (e.g., specific condition or care pathway)"
+        },
+        {
+          "id": "1.2",
+          "node_type": "Statement",
+          "text": "manage specific episodes of care. Recognise boundaries of the protocol/guideline and escalate undifferentiated or complex cases to Advanced/Medical staff"
+        },
+        {
+          "id": "1.3",
+          "node_type": "Statement",
+          "text": "act on professional judgement about when to seek help, demonstrating critical reflection on own practice, self-awareness, emotional intelligence and openness to change"
+        },
+        {
+          "id": "1.4",
+          "node_type": "Statement",
+          "text": "request/interpret diagnostic tests defined within the specific clinical protocol (rather than utilizing a full scope of diagnostics)"
+        },
+        {
+          "id": "1.5",
+          "node_type": "Statement",
+          "text": "demonstrate effective communication skills, supporting people in making decisions, planning care, or seeking to make positive changes, using person-centred approaches"
+        },
+        {
+          "id": "1.6",
+          "node_type": "Statement",
+          "text": "use clinical reasoning for differentiated/diagnosed presentations"
+        },
+        {
+          "id": "1.7",
+          "node_type": "Statement",
+          "text": "prescribe/supply medicines within a specific formulary or PGD relevant to the role"
+        },
+        {
+          "id": "1.8",
+          "node_type": "Statement",
+          "text": "manage clinical risk within own caseload, identifying 'red flags' and escalating per protocol"
+        },
+        {
+          "id": "1.9",
+          "node_type": "Statement",
+          "text": "work with multi-agency resources to coordinate care for specific patients within the pathway"
+        },
+        {
+          "id": "1.10",
+          "node_type": "Statement",
+          "text": "act as a Local Champion and role model best practice within the immediate clinical team"
+        },
+        {
+          "id": "1.11",
+          "node_type": "Statement",
+          "text": "evidence the underpinning subject-specific competencies (e.g., ADHD, older persons)"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "node_type": "Pillar",
+      "text": "Leadership and Management",
+      "description": "Enhanced practitioners working at an enhanced level of practice should be able to:",
+      "children": [
+        {
+          "id": "2.1",
+          "node_type": "Statement",
+          "text": "role model inclusive attitudes and behaviours, fostering clarity of roles within the team"
+        },
+        {
+          "id": "2.2",
+          "node_type": "Statement",
+          "text": "role model the values of the organisation, demonstrating a person-centred approach to service delivery"
+        },
+        {
+          "id": "2.3",
+          "node_type": "Statement",
+          "text": "participate in local team evaluation. Demonstrate impact of own role on patient outcomes"
+        },
+        {
+          "id": "2.4",
+          "node_type": "Statement",
+          "text": "actively engage in peer review to inform own and others' practice, formulating and implementing strategies to act on learning and make improvements"
+        },
+        {
+          "id": "2.5",
+          "node_type": "Statement",
+          "text": "contribute to local change and quality improvement (QI) initiatives within own service area"
+        },
+        {
+          "id": "2.6",
+          "node_type": "Statement",
+          "text": "actively seek feedback from individuals, families, carers, and colleagues to inform improvements"
+        },
+        {
+          "id": "2.7",
+          "node_type": "Statement",
+          "text": "[NOT ENHANCED] Strategic consultancy across boundaries is NOT Enhanced"
+        },
+        {
+          "id": "2.8",
+          "node_type": "Statement",
+          "text": "demonstrate leadership by coordinating daily service delivery and supporting team culture"
+        },
+        {
+          "id": "2.9",
+          "node_type": "Statement",
+          "text": "[NOT ENHANCED] Horizon scanning/future workforce planning is NOT Enhanced"
+        },
+        {
+          "id": "2.10",
+          "node_type": "Statement",
+          "text": "demonstrate receptiveness to challenge and preparedness to constructively challenge others, escalating safety concerns when necessary"
+        },
+        {
+          "id": "2.11",
+          "node_type": "Statement",
+          "text": "negotiate individual scope of practice within legal, ethical, professional and organisational policies, governance and procedures, with a focus on managing risk and upholding safety"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "node_type": "Pillar",
+      "text": "Education",
+      "description": "Enhanced practitioners working at an enhanced level of practice should be able to:",
+      "children": [
+        {
+          "id": "3.1",
+          "node_type": "Statement",
+          "text": "assess own learning needs to maintain specialist expertise (e.g., 'Expert' status in specific area)"
+        },
+        {
+          "id": "3.2",
+          "node_type": "Statement",
+          "text": "engage in self-directed learning to update knowledge on specific guidelines/protocols"
+        },
+        {
+          "id": "3.3",
+          "node_type": "Statement",
+          "text": "act as a Specialist Teacher for patients/carers, translating complex information to support health literacy"
+        },
+        {
+          "id": "3.4",
+          "node_type": "Statement",
+          "text": "facilitate learning for junior staff/students within the immediate team"
+        },
+        {
+          "id": "3.5",
+          "node_type": "Statement",
+          "text": "facilitate collaboration and support peer review processes to identify individual and team learning"
+        },
+        {
+          "id": "3.6",
+          "node_type": "Statement",
+          "text": "mentor junior staff and act as a practice assessor/supervisor"
+        },
+        {
+          "id": "3.7",
+          "node_type": "Statement",
+          "text": "support the team to apply specialist learning in practice"
+        },
+        {
+          "id": "3.8",
+          "node_type": "Statement",
+          "text": "act as a role model and educator, seeking to instil and develop the confidence of others"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "node_type": "Pillar",
+      "text": "Research",
+      "description": "Enhanced practitioners working at an enhanced level of practice should be able to:",
+      "children": [
+        {
+          "id": "4.1",
+          "node_type": "Statement",
+          "text": "critically appraise evidence to ensure own specific practice is up to date"
+        },
+        {
+          "id": "4.2",
+          "node_type": "Statement",
+          "text": "participate in local audits relevant to own role/pathway"
+        },
+        {
+          "id": "4.3",
+          "node_type": "Statement",
+          "text": "use research results to update local protocols/SOPs in conjunction with leads"
+        },
+        {
+          "id": "4.4",
+          "node_type": "Statement",
+          "text": "identify gaps in the evidence base and alert appropriate individuals (Advanced/Consultant leads)"
+        },
+        {
+          "id": "4.5",
+          "node_type": "Statement",
+          "text": "[NOT ENHANCED] Generating new evidence/research funding is NOT Enhanced"
+        },
+        {
+          "id": "4.6",
+          "node_type": "Statement",
+          "text": "adhere to governance systems and systematic documentation processes"
+        },
+        {
+          "id": "4.7",
+          "node_type": "Statement",
+          "text": "[NOT ENHANCED] Publishing/Disseminating national policy is NOT Enhanced"
+        },
+        {
+          "id": "4.8",
+          "node_type": "Statement",
+          "text": "[NOT ENHANCED] Academic research partnerships are NOT Enhanced"
+        }
+      ]
+    }
+  ]
+}
