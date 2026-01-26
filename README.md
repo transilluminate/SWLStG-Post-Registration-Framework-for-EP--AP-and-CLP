@@ -20,6 +20,7 @@ Summary of the different **levels of practice**:
 # Workplace-Based Assessments (WBPAs)
 
 ## **The EPA Rating Scale (Universal)**
+
 *To be used across all four forms.*
 
 The Entrustable Professional Activity (EPA) scale moves assessment away from a binary "competent/not competent" to a graded level of required supervision. This allows the same assessment tool to be used for Enhanced, Trainee, and Advanced practitioners—the difference lies in the agreed **Scope of Practice** (Protocol vs. Principle) and the target EPA level.
@@ -51,7 +52,9 @@ For consultant-level practitioners and experienced advanced practitioners transi
 ***
 
 # 1. Case-Based Discussion (CbD)
+
 **Assessment Focus:** Clinical reasoning, decision-making, and risk management.
+
 > **Agreed Scope for this Assessment:** __________________________________________________
 
 ## 1. Formulation & Clinical Reasoning
@@ -87,12 +90,12 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
-Considering the stage and experience of the practitioner, was the performance: [tick box]
+Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments [text boxes]
+## General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
@@ -100,8 +103,10 @@ Considering the stage and experience of the practitioner, was the performance: [
 ***
 
 # 2. Mini-ACE (Assessment of Clinical Encounter)
-> **Agreed Scope for this Assessment:** __________________________________________________
+
 **Assessment Focus:** The interaction, physical skills, and professionalism.
+
+> **Agreed Scope for this Assessment:** __________________________________________________
 
 ## 1. Engagement, Communication & Co-production
 **Did the practitioner establish a therapeutic alliance and work in partnership?**
@@ -128,21 +133,23 @@ Considering the stage and experience of the practitioner, was the performance: [
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
-Considering the stage and experience of the practitioner, was the performance: [tick box]
+Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments [text boxes]
+## General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-> **Agreed Scope for this Assessment:** __________________________________________________
 # 3. QI & Leadership Assessment
+
 **Assessment Focus:** Project work, change management, and strategy.
+
+> **Agreed Scope for this Assessment:** __________________________________________________
 
 Use the following modified EPA levels to rate the individual in this activity:
 
@@ -153,7 +160,6 @@ Use the following modified EPA levels to rate the individual in this activity:
 | **3** | **Indirect Supervision** | **Guided Lead:** Led the project / initiative. Sought guidance on complex barriers or strategic alignment. Supervisor reviewed key outputs before release. |
 | **4** | **Unsupervised** | **Project Lead:** Defined the problem, managed stakeholders, and delivered the change autonomously. Sought consultation only as a peer / strategic check-in. |
 | **5** | **Supervisor / Expert** | **Strategic Lead / Supervisor:** Project has system-wide impact, or the AP is supervising/coaching others to deliver the project. |
-
 
 ## 1. Defining the Problem & Using Evidence
 **Did the practitioner use data/evidence to justify the need for change?**
@@ -177,21 +183,23 @@ Use the following modified EPA levels to rate the individual in this activity:
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
-Considering the stage and experience of the practitioner, was the performance: [tick box]
+Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments [text boxes]
+## General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-> **Agreed Scope for this Assessment:** __________________________________________________
 # 4. Assessment of Educational Activity (AEA)
+
 **Assessment Focus:** Teaching, training, and mentorship.
+
+> **Agreed Scope for this Assessment:** __________________________________________________
 
 ## 1. Educational Design & Planning
 **Did the practitioner identify a learning need and plan an appropriate session?**
@@ -215,12 +223,12 @@ Considering the stage and experience of the practitioner, was the performance: [
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
-Considering the stage and experience of the practitioner, was the performance: [tick box]
+Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments [text boxes]
+## General Comments 
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
