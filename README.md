@@ -44,28 +44,38 @@ For consultant-level practitioners and experienced advanced practitioners transi
 
 ## Defining a Scope of Practice
 
-A practitioner's scope of practice is an agreed list of the core activities that the practitioner can perform **unsupervised** (level 4), which should include:
+A practitioner's scope of practice is defined as: **a list of the activities that the practitioner can perform, rated against the level of supervision required to perform those activites.**
 
-1. **Clinical activities**: prioritising the highest frequency and highest risk (i.e. prescribe antipsychotics to X patient group). Non-medical prescribing activities should be detailed, include *specific* medications and/or medication classes (with any exceptions explained).
-3. **Non-clinical activities**: for example: specific needs and areas of responsibility (across the 4 pillars)
+The reference standard for the EPA rating is **level 4** (unsupervised).
+An enhanced practitioner will have a more *limited and narrow* scope compared to a qualified advanced practitioner and are expected to be unsupervised within that scope.
+
+During training, the practitioner may not achieve **level 4** and the rating should reflect the **current** level they have achieved.
+There is an additional section of all the WBPAs ('global judgement for the level of training / experience') to allow for an assessment of trajectory towards being fully qualified.
+
+The **Scope of Practice** should include:
+1. **Clinical activities**: listing the highest frequency and highest risk (i.e. prescribe antipsychotics to X patient group). Non-medical prescribing activities should be detailed, include *specific* medications and/or medication classes (with any exceptions explained).
+3. **Non-clinical activities**: for example: specific needs and areas of responsibility (across the other 4 pillars)
 4. **Clear boundaries**: with what they will *not* do and refer onwards related to their core activities, if any (i.e. treat patients with multiple comorbidities)
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
-6. **EPA rating**: for each of the listed activities in the scope of practice. This is the **current and reviewed** level and not the 'final' level. This distinguishes the future scopes during training, and sets the level of supervision that is required at this point in time. The target level **level 4** (unsupervised).
+6. **EPA rating**: for each of the listed activities in the scope of practice. This is the **current and reviewed** level and not the 'final' level. This distinguishes the future scopes during training, and sets the level of supervision that is required at this point in time.
 
 ## Reviews of Scope of Practice
 
-Scopes of practice should be performed during regular supervision time, not a 'yearly appraisal'.
-Multiple sources of information should be used determine the assessed EPA rating and this is a 4 step process.
+Scopes of practice should be reviewed at appropriate times. This can be more frequently than a 'yearly appraisal' and allows for rapid cycles of *actionable* feedback.
+During this review, the WBPAs plus other sources of information should be used determine the EPA rating. This review is a 4 step process.
+
+### EPA Review Infographic
 
 <img width="1280" height="720" alt="EPA Infographic" src="https://github.com/user-attachments/assets/9498091d-0bbc-46a5-876a-94608d5564bc" />
 
 # Workplace-Based Assessments (WBPAs)
 
-Workplace assessments form 'snapshots' which are part of the scope of practice reviews.
-They assess the thought processes (CdB), the actions (mini-ACE), QI and leadership activity (QILA), and the delivery of education (AEA).
-These snapshots are assessed against the EPA rating.
+Workplace assessments are 'snapshots' in time. They inform the scope of practice reviews.
+They assess the *thought processes* (CdB), the *actions* (mini-ACE), their *QI and leadership* activities (QILA), and the *delivery of education* (AEA).
 
-The reference standard is level 4 'unsupervised' within the practitioner's defined scope of practice. During training they may not achieve this level (for example, when starting advanced practice training a practitioner is unlikely to achieve the level of 'unsupervised'), therefore there is an additional 'global judgement for the level of training / experience' to allow for an assessment of trajectory.
+WBPAs are also assessed against the EPA rating, however it is only during the scope of practice reviews where the practitioner's *scope of practice* is determined.
+
+The assessment criteria are mapped to multiple national frameworks and are applicable to all levels of practice.
 
 **Legend for Mappings:**
 *   **[RPS](RPS.yaml)**: 'A Competency Framework for all Prescribers' ([RPS, 2021](https://www.rpharms.com/resources/frameworks/prescribing-competency-framework/competency-framework))
