@@ -10,8 +10,8 @@ metadata:
   source_url: ""
 
 notes:
-- This framework has been derived from NHS England's 'Multi-professional framework for advanced practice in England' (2025)
-- (the capabilities defined here have been adapted to reflect the scope of Enhanced Practice)
+- This framework has been derived from NHS England's 'Multi-professional framework for advanced practice in England' (2025) and NHS England's 'Allied Health Professions Enhanced Level Practice Schemas with Model Curricula (12 professions)' (2024).
+- (the capabilities defined here have been adapted to be generic for all professions, and have the same numerical mappings as the Advanced Practice framework).
 
 structure:
 - id: 1
@@ -24,7 +24,7 @@ structure:
     text: practise in compliance with their code of conduct and within their defined specialist scope of practice (e.g., specific condition or care pathway)
   - id: '1.2'
     node_type: Statement
-    text: manage specific episodes of care. Recognise boundaries of the protocol/guideline and escalate undifferentiated or complex cases to Advanced/Medical staff
+    text: manage a discrete aspect of a patient's care (e.g., specific treatment or assessment) rather than the complete episode of care. Recognise boundaries of the protocol/guideline.
   - id: '1.3'
     node_type: Statement
     text: act on professional judgement about when to seek help, demonstrating critical reflection on own practice, self-awareness, emotional intelligence and openness to change
@@ -71,7 +71,7 @@ structure:
     text: actively engage in peer review to inform own and others' practice, formulating and implementing strategies to act on learning and make improvements
   - id: '2.5'
     node_type: Statement
-    text: contribute to local change and quality improvement (QI) initiatives within own service area
+    text: contribute to quality improvement (QI) and the development of standard operating procedures (SOPs) or protocols within own service area
   - id: '2.6'
     node_type: Statement
     text: actively seek feedback from individuals, families, carers, and colleagues to inform improvements
