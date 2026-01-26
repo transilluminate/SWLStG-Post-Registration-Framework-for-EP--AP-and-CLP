@@ -43,12 +43,14 @@ For consultant-level practitioners and experienced advanced practitioners transi
 | **5** | **Supervisor (Consultant)** | **System Impact:** Managing "wicked problems" where protocols fail. Supervising *other* autonomous practitioners. Fulfills criteria for Coordinating Supervisor roles. |
 
 **Legend for Mappings:**
-*   **[EP](EP.yaml)**: Enhanced Practice (SWLStG, 2026)
-*   **[RPS](RPS.yaml)**: RPS Prescribing Competencies (RPS, 2021)
-*   **[AP-G](AP-G.yaml)**: Advanced Generic (NHS England, 2025)
-*   **[AP-MH](AP-MH.yaml)**: Advanced Mental Health (NHS England, 2022)
-*   **[CLP](CLP.yaml)**: Consultant-level Practice (NHS England, 2023)
-
+*   **[RPS](RPS.yaml)**: 'A Competency Framework for all Prescribers' ([RPS, 2021](https://www.rpharms.com/resources/frameworks/prescribing-competency-framework/competency-framework))
+*   **[AP-G](AP-G.yaml)**: 'Multi-professional framework for advanced practice in England' ([NHS England, 2025](https://advanced-practice.hee.nhs.uk/mpf2025/capabilities/))
+*   **[AP-MH](AP-MH.yaml)**: 'Mental health advanced practice area specific capability and curriculum framework' ([NHS England, 2022](https://advanced-practice.hee.nhs.uk/wp-content/uploads/sites/28/2025/01/Mental-health-advanced-practice-area-specific-capability-and-curriculum-framework-NHSE.pdf))
+*   **[CLP](CLP.yaml)**: 'Consultant-level practice capability and impact framework' ([NHS England, 2023](https://advanced-practice.hee.nhs.uk/consultant/consultant-level-practice-capability-and-impact-framework/))
+*   **[EP](EP.yaml)**: 'Enhanced Practice Capabilities Framework' (SWLStG, 2026)
+    - locally developed capabilities framework
+    - based on the 'Multi-professional framework for advanced practice in England' ([NHS England, 2025](https://advanced-practice.hee.nhs.uk/mpf2025/capabilities/))
+    - and the 'Allied Health Professions Enhanced Level Practice Schemas with Model Curricula (12 professions)' ([NHS England, 2024](https://www.hee.nhs.uk/sites/default/files/2025-12/Enhanced-Level%20Practice%20schema%20combined%20doc%20v3.1%20final%20version.pdf))
 ***
 
 # 1. Case-Based Discussion (CbD)
