@@ -86,7 +86,7 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   Identifies systemic barriers to care and proposes solutions.
 *   **Consultant Level Indicator:** Identifies that risk lies in the **service gap**; proposes **pathway changes** or holistic service improvements to prevent recurrence (System Impact).
 *   Reflects on ethical dilemmas (including **resource allocation**) and boundaries of competence.
-*   **Mappings:** `[EP 2.10]`, `[AP-G 2.10]`, `[AP-MH F6.3]`, `[CLP 2.1]`
+*   **Mappings:** `[EP 2.10]`, `[AP-G 2.10]`, `[AP-MH F6.3]`, `[CLP 3.2]`
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
@@ -129,7 +129,7 @@ Considering the stage and experience of the practitioner, was the performance: (
 *   **The Prescription (NMP):** Generates a **legally valid, unambiguous prescription** adhering to local formulary/NICE (if applicable).
 *   **Safety Netting:** Provides clear advice on "what to do if it gets worse."
 *   **Consultant Level Indicator:** Acts as an **expert resource/role model** for the MDT during the assessment (e.g., effectively supporting a resident doctor/trainee during the episode).
-*   **Mappings:** `[EP 1.1]`, `[RPS 4.9]`, `[AP-G 1.1]`, `[AP-MH A4 1.12]`, `[CLP 3.5]`
+*   **Mappings:** `[EP 1.1]`, `[RPS 4.9]`, `[AP-G 1.1]`, `[AP-MH A4 1.12]`, `[CLP 4.1]`
 *   **[EPA RATING 1-5]**
 
 ## Global Judgement for Stage of Training / Experience:
