@@ -46,18 +46,23 @@ For consultant-level practitioners and experienced advanced practitioners transi
 
 A practitioner's scope of practice is defined as: **a list of the activities that the practitioner can perform, rated against the level of supervision required to perform those activites.**
 
-The reference standard for the EPA rating is **level 4** (unsupervised).
-An enhanced practitioner will have a more *limited and narrow* scope compared to a qualified advanced practitioner and are expected to be unsupervised within that scope.
+The reference standard for the EPA rating is **level 4** (unsupervised) -- this is the standard expected for both *enhanced practice* and *advanced practice* levels.
+It is the defined **scope of practice** which changes, for example an *enhanced practitioner* will have a *limited and narrower* scope compared to a qualified *advanced practitioner*.
 
-During training, the practitioner may not achieve **level 4** and the rating should reflect the **current** level they have achieved.
-There is an additional section of all the WBPAs ('global judgement for the level of training / experience') to allow for an assessment of trajectory towards being fully qualified.
+## During Training
+
+During advanced practice training, the practitioner may have 'aspirational' activities defined in their scope of practice. They are unlikely to achieve **level 4** but need a level of supervision to perform these. This is expected, and their EPA rating should reflect the **current** level they have achieved.
+
+There is a section within the WBPAs ('global judgement for the level of training / experience') to allow for an assessment of trajectory towards being fully qualified.
+
+## What Should Be Included?
 
 The **Scope of Practice** should include:
-1. **Clinical activities**: listing the highest frequency and highest risk (i.e. prescribe antipsychotics to X patient group). Non-medical prescribing activities should be detailed, include *specific* medications and/or medication classes (with any exceptions explained).
+1. **Clinical activities**: prioritising the highest frequency and highest risk activities (i.e. prescribe antipsychotics to X patient group). If appripriate, non-medical prescribing activities should be detailed, include *specific* medications and/or medication classes (with any exceptions listed).
 3. **Non-clinical activities**: for example: specific needs and areas of responsibility (across the other 4 pillars)
 4. **Clear boundaries**: with what they will *not* do and refer onwards related to their core activities, if any (i.e. treat patients with multiple comorbidities)
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
-6. **EPA rating**: for each of the listed activities in the scope of practice. This is the **current and reviewed** level and not the 'final' level. This distinguishes the future scopes during training, and sets the level of supervision that is required at this point in time.
+6. **Current EPA rating**: for each of the listed activities in the scope of practice. This is the **current** level and not the 'final' level. This sets the level of supervision that is required at this point in time.
 
 ## Reviews of Scope of Practice
 
