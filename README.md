@@ -5,7 +5,7 @@ This document outlines the strategic framework of describing and assessing *all*
 
 Non-medical prescribing (NMP) is included, however, this does not define a level of practice and is woven into the levels according to the practitioner's *scope of practice*.
 
-## Levels of Practice
+# Levels of Practice
 
 Summary of the different **levels of practice**:
 
@@ -17,23 +17,21 @@ Summary of the different **levels of practice**:
 | 4. RESEARCH | **Evidence User:** Critically appraises evidence to ensure own specific practice is up to date. Participates in audits relevant to their own role. | **Evidence Appraiser:** Translates research into practice. Conducts service audits to benchmark current performance against standards. | **Evidence Translator:** Identifies gaps in evidence, leads audit / evaluation, and implements research findings to change clinical guidelines / protocols. | **Evidence Generator:** Leads formal research, drives impact case studies, and publishes / disseminates findings to influence national / regional policy. |
 | 5. CONSULTANCY (ALL 4 PILLARS) | N/A | N/A | N/A – Although some individuals may start working towards generating impact at a more strategic and systems level, and evidencing this for a portfolio of practice. | **Consultancy across all domains, practice to systems level:** establishing expertise across the system by using consultancy approaches and opportunities that have maximum impact on practice, services, communities and populations, and which add to and sustain workforce capacity and capability. |
 
-# Workplace-Based Assessments (WBPAs)
+# The EPA Rating Scale (Universal)
 
-## **The EPA Rating Scale (Universal)**
-
-*To be used across all four forms.*
+*To be used within the scope of practice and across all workplace assessment forms.*
 
 The Entrustable Professional Activity (EPA) scale moves assessment away from a binary "competent/not competent" to a graded level of required supervision. This allows the same assessment tool to be used for Enhanced, Trainee, and Advanced practitioners—the difference lies in the agreed **Scope of Practice** (Protocol vs. Principle) and the target EPA level.
 
 | EPA Level | Description | Scope Definition |
 | :--- | :--- | :--- |
-| **1** | **Observed Only** | Not allowed to practice this EPA, even under direct supervision. |
-| **2** | **Direct Supervision** | Can act, but the supervisor must be physically present in the room/space. |
+| **1** | **Observed Only** | Not allowed to practice this actvity, even under direct supervision. |
+| **2** | **Direct Supervision** | Can act, but the supervisor must be physically present in the vicinity. |
 | **3** | **Indirect Supervision** | Supervisor is immediately available (e.g., phone/next door) for guidance; supervisor reviews findings/decisions before they are enacted. |
 | **4** | **Unsupervised (Independent)** | **The Standard for Practice.** Can act autonomously within scope. Competent to supervise students or junior staff (e.g., Practice Supervisor/Assessor). |
 | **5** | **System Expert / Coordinating Supervisor** | **Formal Sign-off Authority.** Acts as a reference point for the system. Supervises peers or acts as Coordinating Education Supervisor (meets 3yr+ criteria). |
 
-### Guidance: The EPA Scale & Consultant Level
+## Guidance: The EPA Scale & Consultant Level
 
 For consultant-level practitioners and experienced advanced practitioners transitioning to consultant-level practice, use these descriptors as a guide to identify those achieving 'level 5':
 
@@ -41,6 +39,33 @@ For consultant-level practitioners and experienced advanced practitioners transi
 | :--- | :--- | :--- |
 | **4** | **Unsupervised (Advanced)** | Competent management. Capable of supervising students or junior staff in this domain. |
 | **5** | **Supervisor (Consultant)** | **System Impact:** Managing "wicked problems" where protocols fail. Supervising *other* autonomous practitioners. Fulfills criteria for Coordinating Supervisor roles. |
+
+# Scope of Practice
+
+## Defining a Scope of Practice
+
+A practitioner's scope of practice is an agreed list of the core activities that the practitioner can perform **unsupervised** (level 4), which should include:
+
+1. **Clinical activities**: prioritising the highest frequency and highest risk (i.e. prescribe antipsychotics to X patient group). Non-medical prescribing activities should be detailed, include *specific* medications and/or medication classes (with any exceptions explained).
+3. **Non-clinical activities**: for example: specific needs and areas of responsibility (across the 4 pillars)
+4. **Clear boundaries**: with what they will *not* do and refer onwards related to their core activities, if any (i.e. treat patients with multiple comorbidities)
+5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
+6. **EPA rating**: for each of the listed activities in the scope of practice. This is the **current and reviewed** level and not the 'final' level. This distinguishes the future scopes during training, and sets the level of supervision that is required at this point in time. The target level **level 4** (unsupervised).
+
+## Reviews of Scope of Practice
+
+Scopes of practice should be performed during regular supervision time, not a 'yearly appraisal'.
+Multiple sources of information should be used determine the assessed EPA rating and this is a 4 step process.
+
+<img width="1280" height="720" alt="EPA Infographic" src="https://github.com/user-attachments/assets/9498091d-0bbc-46a5-876a-94608d5564bc" />
+
+# Workplace-Based Assessments (WBPAs)
+
+Workplace assessments form 'snapshots' which are part of the scope of practice reviews.
+They assess the thought processes (CdB), the actions (mini-ACE), QI and leadership activity (QILA), and the delivery of education (AEA).
+These snapshots are assessed against the EPA rating.
+
+The reference standard is level 4 'unsupervised' within the practitioner's defined scope of practice. During training they may not achieve this level (for example, when starting advanced practice training a practitioner is unlikely to achieve the level of 'unsupervised'), therefore there is an additional 'global judgement for the level of training / experience' to allow for an assessment of trajectory.
 
 **Legend for Mappings:**
 *   **[RPS](RPS.yaml)**: 'A Competency Framework for all Prescribers' ([RPS, 2021](https://www.rpharms.com/resources/frameworks/prescribing-competency-framework/competency-framework))
@@ -51,15 +76,16 @@ For consultant-level practitioners and experienced advanced practitioners transi
     - locally developed capabilities framework
     - based on the 'Multi-professional framework for advanced practice in England' ([NHS England, 2025](https://advanced-practice.hee.nhs.uk/mpf2025/capabilities/))
     - and the 'Allied Health Professions Enhanced Level Practice Schemas with Model Curricula (12 professions)' ([NHS England, 2024](https://www.hee.nhs.uk/sites/default/files/2025-12/Enhanced-Level%20Practice%20schema%20combined%20doc%20v3.1%20final%20version.pdf))
+
 ***
 
-# 1. Case-Based Discussion (CbD)
+## Case-Based Discussion (CbD)
 
 **Assessment Focus:** Clinical reasoning, decision-making, and risk management.
 
 > **Agreed Scope for this Assessment:** __________________________________________________
 
-## 1. Formulation & Clinical Reasoning
+### 1. Formulation & Clinical Reasoning
 **Did the practitioner synthesise the information to explain 'why' this is happening?**
 *   Synthesises complex, incomplete, or ambiguous information to form a robust Bio-Psycho-Social formulation (predisposing, precipitating, perpetuating, and protective factors).
 *   **Physical Health:** Appropriately assesses and integrates physical health data to exclude organic causes (**mitigating diagnostic overshadowing**).
@@ -67,7 +93,7 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   **Mappings:** EP-1.6[^EP-1.6], RPS-1.11[^RPS-1.11], AP-G-1.6[^AP-G-1.6], AP-MH-C3.1[^AP-MH-C3.1], AP-MH-B2.14[^AP-MH-B2.14]
 *   **[EPA RATING 1-5]**
 
-## 2. Intervention Planning & Therapeutics
+### 2. Intervention Planning & Therapeutics
 **Is the management plan evidence-based, legal, and holistic?**
 *   **Pharmacology & NMP:** Demonstrates knowledge of **pharmacodynamics/kinetics** relevant to the patient (e.g., renal/hepatic function, age). Justifies **prescribing decisions** based on evidence and considers **interactions/allergies**.
 *   **Holistic:** Prioritises social and environmental interventions alongside psychological/pharmacological ones (Least Restrictive Practice).
@@ -75,7 +101,7 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   **Mappings:** EP-1.7[^EP-1.7], RPS-4.1-4.11[^RPS-4.1][^RPS-4.2][^RPS-4.3][^RPS-4.4][^RPS-4.5][^RPS-4.6][^RPS-4.7][^RPS-4.8][^RPS-4.9][^RPS-4.10][^RPS-4.11], AP-G-1.7[^AP-G-1.7], AP-MH-5.2[^AP-MH-5.2]
 *   **[EPA RATING 1-5]**
 
-## 3. Risk Management & Defensible Decision Making
+### 3. Risk Management & Defensible Decision Making
 **Can the practitioner defend their decision-making process regarding risk?**
 *   Demonstrates autonomous judgement in managing risk in unpredictable/complex situations.
 *   **Monitoring (NMP):** Establishes appropriate plans for **monitoring (bloods, physicals)** and review.
@@ -83,7 +109,7 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   **Mappings:** RPS-6.1[^RPS-6.1], RPS-6.2[^RPS-6.2], AP-G-1.8[^AP-G-1.8], AP-MH-4.4[^AP-MH-4.4], CLP-2.3[^CLP-2.3]
 *   **[EPA RATING 1-5]**
 
-## 4. Leadership, Systems & Ethics
+### 4. Leadership, Systems & Ethics
 **Did the practitioner advocate for the patient and challenge the system where necessary?**
 *   Identifies systemic barriers to care and proposes solutions.
 *   **Consultant Level Indicator:** Identifies that risk lies in the **service gap**; proposes **pathway changes** or holistic service improvements to prevent recurrence (System Impact).
@@ -91,26 +117,26 @@ For consultant-level practitioners and experienced advanced practitioners transi
 *   **Mappings:** EP-2.10[^EP-2.10], AP-G-2.10[^AP-G-2.10], AP-MH-F6.3[^AP-MH-F6.3], CLP-3.2[^CLP-3.2]
 *   **[EPA RATING 1-5]**
 
-## Global Judgement for Stage of Training / Experience:
+### Global Judgement for Stage of Training / Experience:
 Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments (text boxes)
+### General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-# 2. Mini-ACE (Assessment of Clinical Encounter)
+## Mini-ACE (Assessment of Clinical Encounter)
 
 **Assessment Focus:** The interaction, physical skills, and professionalism.
 
 > **Agreed Scope for this Assessment:** __________________________________________________
 
-## 1. Engagement, Communication & Co-production
+### 1. Engagement, Communication & Co-production
 **Did the practitioner establish a therapeutic alliance and work in partnership?**
 *   Demonstrates advanced communication to establish alliance, even with distress/hostility.
 *   **Consent (NMP):** Explains choice of medicine/treatment including **benefits and risks (side effects)**, ensuring valid **informed consent** (ICE).
@@ -118,7 +144,7 @@ Considering the stage and experience of the practitioner, was the performance: (
 *   **Mappings:** EP-1.5[^EP-1.5], RPS-3.1[^RPS-3.1], RPS-2.3[^RPS-2.3], AP-G-1.5[^AP-G-1.5], AP-MH-1.2[^AP-MH-1.2]
 *   **[EPA RATING 1-5]**
 
-## 2. Assessment Skills & Decision Making
+### 2. Assessment Skills & Decision Making
 **Did the practitioner gather the right information to inform decision making?**
 *   Undertakes systematic history and examination appropriate to complexity.
 *   **Physical Health:** Effectively assesses physical health/vital signs to exclude organic causes.
@@ -126,7 +152,7 @@ Considering the stage and experience of the practitioner, was the performance: (
 *   **Mappings:** EP-1.4[^EP-1.4], RPS-1.7[^RPS-1.7], AP-G-1.4[^AP-G-1.4], AP-MH-B2.8[^AP-MH-B2.8]
 *   **[EPA RATING 1-5]**
 
-## 3. Professionalism, Safety & The Prescription
+### 3. Professionalism, Safety & The Prescription
 **Did the practitioner manage the environment, the risk, and themselves?**
 *   **The Prescription (NMP):** Generates a **legally valid, unambiguous prescription** adhering to local formulary/NICE (if applicable).
 *   **Safety Netting:** Provides clear advice on "what to do if it gets worse."
@@ -134,20 +160,20 @@ Considering the stage and experience of the practitioner, was the performance: (
 *   **Mappings:** EP-1.1[^EP-1.1], RPS-4.9[^RPS-4.9], AP-G-1.1[^AP-G-1.1], AP-MH-1.12[^AP-MH-1.12], CLP-4.1[^CLP-4.1]
 *   **[EPA RATING 1-5]**
 
-## Global Judgement for Stage of Training / Experience:
+### Global Judgement for Stage of Training / Experience:
 Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments (text boxes)
+### General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-# 3. QI & Leadership Assessment
+## QI & Leadership Assessment (QILA)
 
 **Assessment Focus:** Project work, change management, and strategy.
 
@@ -163,81 +189,81 @@ Use the following modified EPA levels to rate the individual in this activity:
 | **4** | **Unsupervised** | **Project Lead:** Defined the problem, managed stakeholders, and delivered the change autonomously. Sought consultation only as a peer / strategic check-in. |
 | **5** | **Supervisor / Expert** | **Strategic Lead / Supervisor:** Project has system-wide impact, or the AP is supervising/coaching others to deliver the project. |
 
-## 1. Defining the Problem & Using Evidence
+### 1. Defining the Problem & Using Evidence
 **Did the practitioner use data/evidence to justify the need for change?**
 *   Critically engages in research/audit to identify gaps. Uses valid methods (PDSA, Audit).
 *   **Consultant Level Indicator:** Moving from evidence use to **Knowledge Generation**. The project scale is **Trust/ICS wide**, not just local.
 *   **Mappings:** EP-4.2[^EP-4.2], AP-G-4.1[^AP-G-4.1], CLP-13.1[^CLP-13.1]
 *   **[EPA RATING 1-5]**
 
-## 2. Leading Change & Service Redesign
+### 2. Leading Change & Service Redesign
 **Did the practitioner effectively manage the 'people' side of the change?**
 *   Demonstrates resilience in managing service redesign and negotiating scope.
 *   **Consultant Level Indicator:** Shifts the **culture** of the department/area, not just the process.
 *   **Mappings:** EP-2.5[^EP-2.5], AP-G-2.5[^AP-G-2.5], CLP-5.1[^CLP-5.1]
 *   **[EPA RATING 1-5]**
 
-## 3. Population Health & Sustainability
+### 3. Population Health & Sustainability
 **Did the practitioner consider the wider impact on the population and resources?**
 *   Addresses health inequalities (e.g., Core20PLUS5) and needs of marginalised groups.
 *   Promotes **sustainable healthcare** (resource stewardship / carbon footprint of medicines).
 *   **Mappings:** AP-G-2.9[^AP-G-2.9], RPS-9.7[^RPS-9.7], CLP-7.3[^CLP-7.3]
 *   **[EPA RATING 1-5]**
 
-## Global Judgement for Stage of Training / Experience:
+### Global Judgement for Stage of Training / Experience:
 Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments (text boxes)
+### General Comments (text boxes)
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-# 4. Assessment of Educational Activity (AEA)
+## 4. Assessment of Educational Activity (AEA)
 
 **Assessment Focus:** Teaching, training, and mentorship.
 
 > **Agreed Scope for this Assessment:** __________________________________________________
 
-## 1. Educational Design & Planning
+### 1. Educational Design & Planning
 **Did the practitioner identify a learning need and plan an appropriate session?**
 *   Identifies learning gaps (individual, patient, or team).
 *   Designs a session/curriculum appropriate to the target audience's level.
 *   **Mappings:** EP-3.1[^EP-3.1], RPS-5.1[^RPS-5.1], AP-G-3.1[^AP-G-3.1]
 *   **[EPA RATING 1-5]**
 
-## 2. Facilitation & Delivery
+### 2. Facilitation & Delivery
 **Did the practitioner create an effective learning environment?**
 *   **Patient Focus:** Translates complex info into accessible language (Health Literacy).
 *   **Staff Focus:** Uses diverse teaching methods; manages group dynamics; creates psychological safety.
 *   **Mappings:** EP-3.3[^EP-3.3], AP-G-3.4[^AP-G-3.4], AP-MH-1.4[^AP-MH-1.4]
 *   **[EPA RATING 1-5]**
 
-## 3. Evaluation & Mentorship
+### 3. Evaluation & Mentorship
 **Did the practitioner assess the impact of the learning and support ongoing growth?**
 *   Evaluates the session (feedback/impact on practice).
 *   **Consultant Level Indicator:** Demonstrates **mentorship/coaching** of other educators; contributes to the "pipeline" of future talent.
 *   **Mappings:** EP-3.6[^EP-3.6], AP-G-3.8[^AP-G-3.8], CLP-9.3[^CLP-9.3]
 *   **[EPA RATING 1-5]**
 
-## Global Judgement for Stage of Training / Experience:
+### Global Judgement for Stage of Training / Experience:
 Considering the stage and experience of the practitioner, was the performance: (tick box)
 *   Below expected - Potential concerns regarding progress
 *   Meeting expectations - Appropriate for current level of experience
 *   Above expectations - Performing ahead of trajectory
 
-## General Comments 
+### General Comments 
 *   Anything especially good: Identify areas where the practitioner is performing strongly.
 *   Any areas for development: Identify areas where the practitioner could improve performance.
 *   Suggested actions for development: Identify actions that the practitioner could undertake to improve performance.
 
 ***
 
-## Assessment Criteria Definitions
+### Assessment Criteria Definitions
 [^AP-G-1.1]: **AP-G 1.1:** practise in compliance with their respective code of professional conduct and within their scope of practice, being responsible and accountable for their decisions, actions, and omissions at this level of practice
 [^AP-G-1.4]: **AP-G 1.4:** work in partnership with individuals, families, and carers, using a range of assessment methods as appropriate (for example history-taking; holistic assessment; identifying risk factors; mental health assessments; requesting, undertaking, and/or interpreting diagnostic tests; and conducting health needs assessments)
 [^AP-G-1.5]: **AP-G 1.5:** demonstrate effective communication skills, supporting people in making decisions, planning care, or seeking to make positive changes, using NHS England's Framework to promote person-centred approaches in health and care
