@@ -12,7 +12,7 @@ structure:
 - id: '1'
   node_type: Pillar
   text: Clinical Practice
-  description: Advanced practitioners working at an advanced level of practice should be able to:
+  description: "Advanced practitioners working at an advanced level of practice should be able to:"
   children:
   - id: '1.1'
     node_type: Statement
@@ -50,7 +50,7 @@ structure:
 - id: '2'
   node_type: Pillar
   text: Leadership and Management
-  description: Advanced practitioners working at an advanced level of practice should be able to:  
+  description: "Advanced practitioners working at an advanced level of practice should be able to:"
   children:
   - id: '2.1'
     node_type: Statement
@@ -88,7 +88,7 @@ structure:
 - id: '3'
   node_type: Pillar
   text: Education
-  description: Advanced practitioners working at an advanced level of practice should be able to:  
+  description: "Advanced practitioners working at an advanced level of practice should be able to:"
   children:
   - id: '3.1'
     node_type: Statement
@@ -117,7 +117,7 @@ structure:
 - id: '4'
   node_type: Pillar
   text: Research
-  description: Advanced practitioners working at an advanced level of practice should be able to:  
+  description: "Advanced practitioners working at an advanced level of practice should be able to:"
   children:
   - id: '4.1'
     node_type: Statement
