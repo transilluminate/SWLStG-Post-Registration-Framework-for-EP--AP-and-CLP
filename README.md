@@ -50,7 +50,9 @@ This is the clinical boundary where the practitioner is competent to practice. I
 
 A **scope of practice document** is a tracked document held centrally in the Trust and as part of the practitioner's portfolio.
 
-The **Scope of Practice** should include:
+It should only include the activities that the practitioner has achieved **EPA level 4/5**. 
+
+The **Scope of Practice** document should include:
 1. **Clinical activities**: including the *clinical domain* and the *patient cohort*. For NMPs: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
 2. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities). For NMPs: this should include specific medications if listing mediction classes above.
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
@@ -61,9 +63,11 @@ In addition, any CPD log entries and WBPAs should be kept in the practitioner's 
 
 ### What Happens During Training?
 
-The practitioner doesn't need to 'apply' for a new scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning.
+During the training period, the *scope of practice document* can include 'aspirational' activities. These may not be achieved at EPA 4/5. The **current** EPA level should be entered into the *scope of practice* document.
 
-**For NMPs**: the responsibility for the prescription *legally* remains with the individual signing that prescription. If the case is fully discussed with a supervisor, and agreed, clear documented in the notes, then the practitioner can operate at EPA level 1-3 without this being explicitly defined in their *scope of practice* document. This is to allow working outside of their established independent practice but within scrict supervision requirements.
+The practitioner does not necessarily need to include this on their scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning.
+
+**For NMPs**: the responsibility for the prescription *legally* remains with the individual signing that prescription. If the case is fully discussed with a supervisor, and agreed, clearly documented in the notes, then the practitioner can operate at EPA level 1-3 without this being explicitly defined in their *scope of practice* document. This is to allow working outside of their established independent practice but within scrict supervision requirements.
 
 ### Scope of Practice Reviews
 
