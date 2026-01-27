@@ -65,7 +65,7 @@ In addition, any CPD log entries and WBPAs should be kept in the practitioner's 
 
 The practitioner doesn't need to 'apply' for a new scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning.
 
-**For NMPs**: the responsibility for the prescription legally remains with the individual signing that prescription, but the clinical plan is agreed with a supervisor and clearly documented in the notes.
+**For NMPs**: the responsibility for the prescription *legally* remains with the individual signing that prescription. If the case is fully discussed with a supervisor, and agreed, clear documented in the notes, then the practitioner can operate at EPA level 1-3 without this being explicitly defined in their *scope of practice* document. This is to allow working outside of their established independent practice but within scrict supervision requirements.
 
 ### When is it renewed?
 
