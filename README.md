@@ -46,13 +46,11 @@ For consultant-level practitioners and experienced advanced practitioners transi
 
 This is the clinical boundary where the practitioner is competent to practice. Instead of a list of drugs or tasks, it is defined by the **clinical domain** (e.g., early intervention in psychosis) and the **patient cohort**. The practitioner is "in scope" if they have the training, the role, and the trust of their supervisor to act.
 
-## Evidencing Scope of Practice
-
-The EPA rating is the evidence. It turns "competence" into a number:
-*    **EPA 4 (or 5)**: they are "in scope" to act alone. For existing staff with an established relationship with their supervisor, this is a 5-minute "Grandfathering" sign-off based on their current track record. This level is required for all levels of practice and it is the scope which changes: for example an *enhanced practitioner* will have a *limited and narrower* scope compared to a qualified *advanced practitioner*, but still need to achievel EPA level 4+ to act unsupervised.
-*    **EPA 1-3**: (varying levels of supervision): they are "in scope" to act with support. This is a safety net for new skills or complex cases.
-
 ## What Should Be Included?
+
+A **scope of practice document** is a tracked document held centrally in the Trust and as part of the practitioner's portfolio.
+
+It is reviewed during *scope of practice reviews*. These happen at a minimum of yearly. 
 
 The **Scope of Practice** should include:
 1. **Clinical activities**: including the *clinical domain* and the *patient cohort*. For NMPs: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
@@ -62,6 +60,9 @@ The **Scope of Practice** should include:
 4. **Non-clinical activities**: to address the other pillars of professional practice these should be included if this is a delegated responsibility (responsible for delivering training to X cohort). This does not require an EPA rating.
 
 In addition, any CPD log entries and WBPAs should be kept in the practitioner's portfolio. This is held separately.
+
+## Evidencing Scope of Practice
+
 
 ## What Happens During Training?
 
@@ -73,9 +74,11 @@ The practitioner doesn't need to 'apply' for a new scope to learn something new.
 
 A scope of practice is not a static document, it's updated at the annual appraisal with the clinical supervisor. This can be done more frequently, for example during training.
 
-The review process takes into account multiple sources of information including the WBPAs, and results in a discussion regarding the decision, and *actionable* feedback to the practitioner.
+The review process takes into account multiple sources of information, for example, CPD logs, completed WBPAs. In addition a conversation with the practitioner is encouraged. This results in an EPA decision by the supervisor for each activity. This is then discussed with the practitioner and actionable feedback is provided.
 
-This is a four step process:
+EPA decision and Scope of Practice:
+*    **EPA 4 (or 5)**: they are "in scope" to act alone. For existing staff with an established relationship with their supervisor, this is a 5-minute "Grandfathering" sign-off based on their current track record. This level is required for all levels of practice and it is the scope which changes: for example an *enhanced practitioner* will have a *limited and narrower* scope compared to a qualified *advanced practitioner*, but still need to achievel EPA level 4+ to act unsupervised.
+*    **EPA 1-3**: (varying levels of supervision): they are "in scope" to act with support. This is a safety net for new skills or complex cases.
 
 <img width="1280" height="720" alt="EPA Infographic" src="https://github.com/user-attachments/assets/9498091d-0bbc-46a5-876a-94608d5564bc" />
 
