@@ -21,7 +21,7 @@ Summary of the different **levels of practice**:
 
 *To be used within the scope of practice and across all workplace assessment forms.*
 
-The Entrustable Professional Activity (EPA) scale moves assessment away from a binary "competent/not competent" to a graded level of required supervision. This allows the same assessment tool to be used for Enhanced, Trainee, and Advanced practitioners—the difference lies in the agreed **Scope of Practice** (Protocol vs. Principle) and the target EPA level.
+The Entrustable Professional Activity (EPA) scale moves assessment away from a binary "competent/not competent" to a graded level of required supervision. This allows the same assessment tool to be used for Enhanced, Trainee, and Advanced practitioners—the difference lies in the agreed **Scope of Practice**.
 
 | EPA Level | Description | Scope Definition |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ The Entrustable Professional Activity (EPA) scale moves assessment away from a b
 | **4** | **Unsupervised (Independent)** | **The Standard for Practice.** Can act autonomously within scope. Competent to supervise students or junior staff (e.g., Practice Supervisor/Assessor). |
 | **5** | **System Expert / Coordinating Supervisor** | **Formal Sign-off Authority.** Acts as a reference point for the system. Supervises peers or acts as Coordinating Education Supervisor (meets 3yr+ criteria). |
 
-## Guidance: The EPA Scale & Consultant Level
+### Guidance: The EPA Scale & Consultant Level
 
 For consultant-level practitioners and experienced advanced practitioners transitioning to consultant-level practice, use these descriptors as a guide to identify those achieving 'level 5':
 
