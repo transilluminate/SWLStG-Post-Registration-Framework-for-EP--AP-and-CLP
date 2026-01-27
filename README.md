@@ -46,15 +46,17 @@ For consultant-level practitioners and experienced advanced practitioners transi
 
 This is the clinical boundary where the practitioner is competent to practice. Instead of a list of drugs or tasks, it is defined by the **clinical domain** (e.g., early intervention in psychosis) and the **patient cohort**. The practitioner is "in scope" if they have the training, the role, and the trust of their supervisor to act.
 
-### What Should Be Included?
+### Scope of Practice Document
 
 A **scope of practice document** is a tracked document held centrally in the Trust and as part of the practitioner's portfolio.
 
-It should only include the activities that the practitioner has achieved **EPA level 4/5**. 
+It should only include the activities that the practitioner has achieved **EPA level 4/5**.
 
 The **Scope of Practice** document should include:
-1. **Clinical activities**: including the *clinical domain* and the *patient cohort*. For NMPs: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
-2. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities). For NMPs: this should include specific medications if listing mediction classes above.
+1. **Clinical activities**: including the *clinical domain* and the *patient cohort*.
+    * **For NMPs**: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
+3. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities).
+    * **For NMPs**: this should include specific medications if listing mediction classes above.
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
 3. **EPA rating**: an explicit EPA rating should be assigned to each activity. This is to distinguish between 'aspirational' scopes during the training period.
 4. **Non-clinical activities**: to address the other pillars of professional practice these should be included if this is a delegated responsibility (responsible for delivering training to X cohort). This does not require an EPA rating.
@@ -63,9 +65,9 @@ In addition, any CPD log entries and WBPAs should be kept in the practitioner's 
 
 ### What Happens During Training?
 
-During the training period, the *scope of practice document* can include 'aspirational' activities. These may not be achieved at EPA 4/5. The **current** EPA level should be entered into the *scope of practice* document.
+During the training period, the *scope of practice document* can include 'aspirational' activities. These may not be achieved at EPA 4/5. Only the **current achieved** EPA level should be entered into the practitioner's *scope of practice* document.
 
-The practitioner does not necessarily need to include this on their scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning.
+The practitioner does not *necessarily* need to include activities at EPA 1-3 on their scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning. They must document the decisions and supervision discussions in the clinical notes.
 
 **For NMPs**: the responsibility for the prescription *legally* remains with the individual signing that prescription. If the case is fully discussed with a supervisor, and agreed, clearly documented in the notes, then the practitioner can operate at EPA level 1-3 without this being explicitly defined in their *scope of practice* document. This is to allow working outside of their established independent practice but within scrict supervision requirements.
 
@@ -89,7 +91,7 @@ WBPAs are also assessed against the EPA rating, however it is only during the sc
 The assessment criteria are mapped to multiple national frameworks and are applicable to all levels of practice.
 
 **Legend for Mappings:**
-*   **[RPS](RPS.yaml)**: 'A Competency Framework for all Prescribers' ([RPS, 2021](https://www.rpharms.com/resources/frameworks/prescribing-competency-framework/competency-framework))
+*   **[RPS](RPS.yaml)**: 'A Competency Framework for all Prescribers' ([RPS, 2021](https://www.rpharms.com/resources/frameworks/prescribing-competency-framework/competency-framework)
 *   **[AP-G](AP-G.yaml)**: 'Multi-professional framework for advanced practice in England' ([NHS England, 2025](https://advanced-practice.hee.nhs.uk/mpf2025/capabilities/))
 *   **[AP-MH](AP-MH.yaml)**: 'Mental health advanced practice area specific capability and curriculum framework' ([NHS England, 2022](https://advanced-practice.hee.nhs.uk/wp-content/uploads/sites/28/2025/01/Mental-health-advanced-practice-area-specific-capability-and-curriculum-framework-NHSE.pdf))
 *   **[CLP](CLP.yaml)**: 'Consultant-level practice capability and impact framework' ([NHS England, 2023](https://advanced-practice.hee.nhs.uk/consultant/consultant-level-practice-capability-and-impact-framework/))
