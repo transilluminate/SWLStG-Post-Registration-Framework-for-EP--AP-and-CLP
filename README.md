@@ -56,7 +56,7 @@ The **Scope of Practice** document should include:
 1. **Clinical activities**: including the *clinical domain* and the *patient cohort*.
     * **For NMPs**: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
 3. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities).
-    * **For NMPs**: this should include specific medications if listing mediction classes above.
+    * **For NMPs**: this should include specific medications they will **not** prescribe in the classes listed above.
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
 3. **EPA rating**: an explicit EPA rating should be assigned to each activity. This is to distinguish between 'aspirational' scopes during the training period.
 4. **Non-clinical activities**: to address the other pillars of professional practice these should be included if this is a delegated responsibility (responsible for delivering training to X cohort). This does not require an EPA rating.
