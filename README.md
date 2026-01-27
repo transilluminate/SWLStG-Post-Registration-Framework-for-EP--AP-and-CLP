@@ -50,8 +50,6 @@ This is the clinical boundary where the practitioner is competent to practice. I
 
 A **scope of practice document** is a tracked document held centrally in the Trust and as part of the practitioner's portfolio.
 
-It is reviewed during *scope of practice reviews*. These happen at a minimum of yearly. 
-
 The **Scope of Practice** should include:
 1. **Clinical activities**: including the *clinical domain* and the *patient cohort*. For NMPs: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
 2. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities). For NMPs: this should include specific medications if listing mediction classes above.
@@ -67,7 +65,7 @@ The practitioner doesn't need to 'apply' for a new scope to learn something new.
 
 **For NMPs**: the responsibility for the prescription *legally* remains with the individual signing that prescription. If the case is fully discussed with a supervisor, and agreed, clear documented in the notes, then the practitioner can operate at EPA level 1-3 without this being explicitly defined in their *scope of practice* document. This is to allow working outside of their established independent practice but within scrict supervision requirements.
 
-### When is it renewed?
+### Scope of Practice Reviews
 
 A scope of practice is not a static document, it's updated at the annual appraisal with the clinical supervisor. This can be done more frequently, for example during training.
 
