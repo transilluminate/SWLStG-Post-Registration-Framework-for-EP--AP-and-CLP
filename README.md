@@ -42,11 +42,11 @@ For consultant-level practitioners and experienced advanced practitioners transi
 
 # Scope of Practice
 
-## Definition
+### Definition
 
 This is the clinical boundary where the practitioner is competent to practice. Instead of a list of drugs or tasks, it is defined by the **clinical domain** (e.g., early intervention in psychosis) and the **patient cohort**. The practitioner is "in scope" if they have the training, the role, and the trust of their supervisor to act.
 
-## What Should Be Included?
+### What Should Be Included?
 
 A **scope of practice document** is a tracked document held centrally in the Trust and as part of the practitioner's portfolio.
 
@@ -61,16 +61,13 @@ The **Scope of Practice** should include:
 
 In addition, any CPD log entries and WBPAs should be kept in the practitioner's portfolio. This is held separately.
 
-## Evidencing Scope of Practice
-
-
-## What Happens During Training?
+### What Happens During Training?
 
 The practitioner doesn't need to 'apply' for a new scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning. There is a section within the WBPAs ('global judgement for the level of training / experience') to allow for an assessment of trajectory towards being fully qualified.
 
 **For NMPs**: the responsibility for the prescription legally remains with the individual signing that prescription, but the clinical plan is agreed with a supervisor and clearly documented in the notes.
 
-## When is it renewed?
+### When is it renewed?
 
 A scope of practice is not a static document, it's updated at the annual appraisal with the clinical supervisor. This can be done more frequently, for example during training.
 
