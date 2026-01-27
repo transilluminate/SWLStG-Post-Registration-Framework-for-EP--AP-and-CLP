@@ -56,14 +56,14 @@ The **Scope of Practice** should include:
 1. **Clinical activities**: including the *clinical domain* and the *patient cohort*. For NMPs: this should also include details of the medications, and/or medication classes which the practitioner is competent to prescribe unsupervised.
 2. **Clear boundaries**: Any exclusions should be listed, and include the patient groups which fall outside of the scope of practice (e.g., children, multiple comorbidities). For NMPs: this should include specific medications if listing mediction classes above.
 5. **Reference standards:** An indication of the reference standards they will work within (i.e. key NICE / Trust guidelines etc.)
-3. **EPA rating**: an explicit EPA rating should be assigned to each entry. This is to distinguish between 'aspirational' scopes during the training period.
+3. **EPA rating**: an explicit EPA rating should be assigned to each activity. This is to distinguish between 'aspirational' scopes during the training period.
 4. **Non-clinical activities**: to address the other pillars of professional practice these should be included if this is a delegated responsibility (responsible for delivering training to X cohort). This does not require an EPA rating.
 
 In addition, any CPD log entries and WBPAs should be kept in the practitioner's portfolio. This is held separately.
 
 ### What Happens During Training?
 
-The practitioner doesn't need to 'apply' for a new scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning. There is a section within the WBPAs ('global judgement for the level of training / experience') to allow for an assessment of trajectory towards being fully qualified.
+The practitioner doesn't need to 'apply' for a new scope to learn something new. They simply operate at EPA level 1-3, acting under supervision for that task. They can gain experience, have feedback, and complete WBPAs to evidence this learning.
 
 **For NMPs**: the responsibility for the prescription legally remains with the individual signing that prescription, but the clinical plan is agreed with a supervisor and clearly documented in the notes.
 
@@ -71,11 +71,9 @@ The practitioner doesn't need to 'apply' for a new scope to learn something new.
 
 A scope of practice is not a static document, it's updated at the annual appraisal with the clinical supervisor. This can be done more frequently, for example during training.
 
-The review process takes into account multiple sources of information, for example, CPD logs, completed WBPAs. In addition a conversation with the practitioner is encouraged. This results in an EPA decision by the supervisor for each activity. This is then discussed with the practitioner and actionable feedback is provided.
+The review process takes into account multiple sources of information, for example, CPD logs, completed WBPAs. In addition a conversation with the practitioner is encouraged. This results in an EPA decision by the supervisor, which is then discussed with the practitioner, and actionable feedback provided.
 
-EPA decision and Scope of Practice:
-*    **EPA 4 (or 5)**: they are "in scope" to act alone. For existing staff with an established relationship with their supervisor, this is a 5-minute "Grandfathering" sign-off based on their current track record. This level is required for all levels of practice and it is the scope which changes: for example an *enhanced practitioner* will have a *limited and narrower* scope compared to a qualified *advanced practitioner*, but still need to achievel EPA level 4+ to act unsupervised.
-*    **EPA 1-3**: (varying levels of supervision): they are "in scope" to act with support. This is a safety net for new skills or complex cases.
+This is a four step process:
 
 <img width="1280" height="720" alt="EPA Infographic" src="https://github.com/user-attachments/assets/9498091d-0bbc-46a5-876a-94608d5564bc" />
 
